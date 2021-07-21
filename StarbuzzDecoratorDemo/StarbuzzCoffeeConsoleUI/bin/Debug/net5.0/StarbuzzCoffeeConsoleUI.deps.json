@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "StarbuzzCoffeeConsoleUI/1.0.0": {
+        "dependencies": {
+          "StarbuzzLibrary": "1.0.0"
+        },
+        "runtime": {
+          "StarbuzzCoffeeConsoleUI.dll": {}
+        }
+      },
+      "StarbuzzLibrary/1.0.0": {
+        "runtime": {
+          "StarbuzzLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "StarbuzzCoffeeConsoleUI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "StarbuzzLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

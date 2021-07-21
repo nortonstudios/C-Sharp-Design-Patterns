@@ -1,0 +1,12 @@
+/Users/mike/Projects/PizzaStoreFactoryDemo/Pizza/bin/Debug/net5.0/Pizza.deps.json
+/Users/mike/Projects/PizzaStoreFactoryDemo/Pizza/bin/Debug/net5.0/Pizza.dll
+/Users/mike/Projects/PizzaStoreFactoryDemo/Pizza/bin/Debug/net5.0/ref/Pizza.dll
+/Users/mike/Projects/PizzaStoreFactoryDemo/Pizza/bin/Debug/net5.0/Pizza.pdb
+/Users/mike/Projects/PizzaStoreFactoryDemo/Pizza/obj/Debug/net5.0/Pizza.csprojAssemblyReference.cache
+/Users/mike/Projects/PizzaStoreFactoryDemo/Pizza/obj/Debug/net5.0/Pizza.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mike/Projects/PizzaStoreFactoryDemo/Pizza/obj/Debug/net5.0/Pizza.AssemblyInfoInputs.cache
+/Users/mike/Projects/PizzaStoreFactoryDemo/Pizza/obj/Debug/net5.0/Pizza.AssemblyInfo.cs
+/Users/mike/Projects/PizzaStoreFactoryDemo/Pizza/obj/Debug/net5.0/Pizza.csproj.CoreCompileInputs.cache
+/Users/mike/Projects/PizzaStoreFactoryDemo/Pizza/obj/Debug/net5.0/Pizza.dll
+/Users/mike/Projects/PizzaStoreFactoryDemo/Pizza/obj/Debug/net5.0/ref/Pizza.dll
+/Users/mike/Projects/PizzaStoreFactoryDemo/Pizza/obj/Debug/net5.0/Pizza.pdb

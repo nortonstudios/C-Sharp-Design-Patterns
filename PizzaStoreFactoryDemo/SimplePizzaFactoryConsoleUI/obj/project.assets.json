@@ -1,0 +1,106 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "Pizza/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Pizza.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Pizza.dll": {}
+        }
+      },
+      "SimplePizzaFactory/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "Pizza": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/SimplePizzaFactory.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SimplePizzaFactory.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Pizza/1.0.0": {
+      "type": "project",
+      "path": "../Pizza/Pizza.csproj",
+      "msbuildProject": "../Pizza/Pizza.csproj"
+    },
+    "SimplePizzaFactory/1.0.0": {
+      "type": "project",
+      "path": "../SimplePizzaFactory/SimplePizzaFactory.csproj",
+      "msbuildProject": "../SimplePizzaFactory/SimplePizzaFactory.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "SimplePizzaFactory >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/Users/mike/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/mike/Projects/PizzaStoreFactoryDemo/SimplePizzaFactoryConsoleUI/SimplePizzaFactoryConsoleUI.csproj",
+      "projectName": "SimplePizzaFactoryConsoleUI",
+      "projectPath": "/Users/mike/Projects/PizzaStoreFactoryDemo/SimplePizzaFactoryConsoleUI/SimplePizzaFactoryConsoleUI.csproj",
+      "packagesPath": "/Users/mike/.nuget/packages/",
+      "outputPath": "/Users/mike/Projects/PizzaStoreFactoryDemo/SimplePizzaFactoryConsoleUI/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/mike/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "/Users/mike/Projects/PizzaStoreFactoryDemo/SimplePizzaFactory/SimplePizzaFactory.csproj": {
+              "projectPath": "/Users/mike/Projects/PizzaStoreFactoryDemo/SimplePizzaFactory/SimplePizzaFactory.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.203/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "SimplePizzaFactoryConsoleUI/1.0.0": {
+        "dependencies": {
+          "SimplePizzaFactory": "1.0.0"
+        },
+        "runtime": {
+          "SimplePizzaFactoryConsoleUI.dll": {}
+        }
+      },
+      "Pizza/1.0.0": {
+        "runtime": {
+          "Pizza.dll": {}
+        }
+      },
+      "SimplePizzaFactory/1.0.0": {
+        "dependencies": {
+          "Pizza": "1.0.0"
+        },
+        "runtime": {
+          "SimplePizzaFactory.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SimplePizzaFactoryConsoleUI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Pizza/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SimplePizzaFactory/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,11 @@
+/Users/mike/Projects/StarbuzzDecoratorDemo/StarbuzzLibrary/bin/Debug/net5.0/StarbuzzLibrary.deps.json
+/Users/mike/Projects/StarbuzzDecoratorDemo/StarbuzzLibrary/bin/Debug/net5.0/StarbuzzLibrary.dll
+/Users/mike/Projects/StarbuzzDecoratorDemo/StarbuzzLibrary/bin/Debug/net5.0/ref/StarbuzzLibrary.dll
+/Users/mike/Projects/StarbuzzDecoratorDemo/StarbuzzLibrary/bin/Debug/net5.0/StarbuzzLibrary.pdb
+/Users/mike/Projects/StarbuzzDecoratorDemo/StarbuzzLibrary/obj/Debug/net5.0/StarbuzzLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mike/Projects/StarbuzzDecoratorDemo/StarbuzzLibrary/obj/Debug/net5.0/StarbuzzLibrary.AssemblyInfoInputs.cache
+/Users/mike/Projects/StarbuzzDecoratorDemo/StarbuzzLibrary/obj/Debug/net5.0/StarbuzzLibrary.AssemblyInfo.cs
+/Users/mike/Projects/StarbuzzDecoratorDemo/StarbuzzLibrary/obj/Debug/net5.0/StarbuzzLibrary.csproj.CoreCompileInputs.cache
+/Users/mike/Projects/StarbuzzDecoratorDemo/StarbuzzLibrary/obj/Debug/net5.0/StarbuzzLibrary.dll
+/Users/mike/Projects/StarbuzzDecoratorDemo/StarbuzzLibrary/obj/Debug/net5.0/ref/StarbuzzLibrary.dll
+/Users/mike/Projects/StarbuzzDecoratorDemo/StarbuzzLibrary/obj/Debug/net5.0/StarbuzzLibrary.pdb

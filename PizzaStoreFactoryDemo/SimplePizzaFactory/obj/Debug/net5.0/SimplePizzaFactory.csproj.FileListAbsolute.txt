@@ -1,0 +1,15 @@
+/Users/mike/Projects/PizzaStoreFactoryDemo/SimplePizzaFactory/obj/Debug/net5.0/SimplePizzaFactory.csprojAssemblyReference.cache
+/Users/mike/Projects/PizzaStoreFactoryDemo/SimplePizzaFactory/obj/Debug/net5.0/SimplePizzaFactory.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mike/Projects/PizzaStoreFactoryDemo/SimplePizzaFactory/obj/Debug/net5.0/SimplePizzaFactory.AssemblyInfoInputs.cache
+/Users/mike/Projects/PizzaStoreFactoryDemo/SimplePizzaFactory/obj/Debug/net5.0/SimplePizzaFactory.AssemblyInfo.cs
+/Users/mike/Projects/PizzaStoreFactoryDemo/SimplePizzaFactory/obj/Debug/net5.0/SimplePizzaFactory.csproj.CoreCompileInputs.cache
+/Users/mike/Projects/PizzaStoreFactoryDemo/SimplePizzaFactory/bin/Debug/net5.0/SimplePizzaFactory.deps.json
+/Users/mike/Projects/PizzaStoreFactoryDemo/SimplePizzaFactory/bin/Debug/net5.0/SimplePizzaFactory.dll
+/Users/mike/Projects/PizzaStoreFactoryDemo/SimplePizzaFactory/bin/Debug/net5.0/ref/SimplePizzaFactory.dll
+/Users/mike/Projects/PizzaStoreFactoryDemo/SimplePizzaFactory/bin/Debug/net5.0/SimplePizzaFactory.pdb
+/Users/mike/Projects/PizzaStoreFactoryDemo/SimplePizzaFactory/bin/Debug/net5.0/Pizza.dll
+/Users/mike/Projects/PizzaStoreFactoryDemo/SimplePizzaFactory/bin/Debug/net5.0/Pizza.pdb
+/Users/mike/Projects/PizzaStoreFactoryDemo/SimplePizzaFactory/obj/Debug/net5.0/SimplePizzaFactory.csproj.CopyComplete
+/Users/mike/Projects/PizzaStoreFactoryDemo/SimplePizzaFactory/obj/Debug/net5.0/SimplePizzaFactory.dll
+/Users/mike/Projects/PizzaStoreFactoryDemo/SimplePizzaFactory/obj/Debug/net5.0/ref/SimplePizzaFactory.dll
+/Users/mike/Projects/PizzaStoreFactoryDemo/SimplePizzaFactory/obj/Debug/net5.0/SimplePizzaFactory.pdb

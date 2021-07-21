@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{361A6BC6-C816-417E-8367-B97B3277F93C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="StarbuzzCoffeeConsoleUI/Program.cs">
+    <Files>
+      <File FileName="StarbuzzCoffeeConsoleUI/Program.cs" Line="21" Column="51" />
+      <File FileName="StarbuzzLibrary/Beverages/Beverage.cs" Line="37" Column="28" />
+      <File FileName="StarbuzzLibrary/CondimentDecorators/Soy.cs" Line="34" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="StarbuzzDecoratorDemo" expanded="True">
+            <Node name="StarbuzzCoffeeConsoleUI" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+            <Node name="StarbuzzLibrary" expanded="True">
+              <Node name="Beverages" expanded="True" />
+              <Node name="CondimentDecorators" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.StarbuzzCoffeeConsoleUI PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

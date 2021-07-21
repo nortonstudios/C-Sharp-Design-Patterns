@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{9F6D4B56-56C2-4412-A84D-2CD3C7D22A30}|Default">
+  <MonoDevelop.Ide.ItemProperties.SimplePizzaFactoryConsoleUI FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Pizza/Pizza.cs">
+    <Files>
+      <File FileName="Pizza/Pizza.cs" Line="7" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PizzaStoreFactoryDemo" expanded="True">
+            <Node name="Pizza" expanded="True">
+              <Node name="Pizza.cs" selected="True" />
+            </Node>
+            <Node name="SimplePizzaFactory" expanded="True" />
+            <Node name="SimplePizzaFactoryConsoleUI" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="PizzaStoreFactoryDemo" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.SimplePizzaFactoryTests PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
